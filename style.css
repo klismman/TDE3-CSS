@@ -1,0 +1,112 @@
+html {
+}
+body { 
+font: 80% Andale Mono, Serif;
+line-height: 1.0009;
+color:aliceblue;
+background: url(../tde3/imgens/imgteste.jpg) repeat-y;
+background-size: 100%;
+
+
+}
+p { 
+text-align: justify;
+
+}
+h3 { 
+font: italic normal 2.0em georgia, Serif;
+color:antiquewhite;
+letter-spacing: -1px; 
+
+
+}
+a:link { 
+text-decoration: none; 
+color: blue;
+}
+
+
+.page-wrapper { 
+
+padding:0 175px 0 110px ;
+position: relative;
+margin: 0; 
+
+
+}
+
+.intro { 
+min-width: 470px;
+
+text-align: center;
+}
+
+header h1 { 
+	
+	background: transparent url(../tde3/imgens/logo_css.png) no-repeat top left; 
+	margin-top: 20px; 
+	width: 200px; 
+	height: 150px; 
+	float: left;
+}
+
+header {
+	padding-top: 20px;
+}
+
+.summary {
+	margin: -10px -170px -100px -90px; 
+	width: 160px; 
+	float: right;
+	background-color:darkgrey;
+	border: 1px solid black;
+}
+
+.preamble {
+	clear: right; 
+	padding: 0px 100px 0 10px;
+}
+.supporting {	
+	padding-left: -10px; 
+	margin-bottom: 40px;
+}
+
+footer,
+.design-selection,
+.zen-resources,
+.design-archives {
+  background-color: darkgray;
+  padding: 7px;
+  margin: 15px;
+  border: 3px solid black;
+  text-align: center;
+  border-radius: 10px;
+}
+abbr {
+  font-weight: bold;
+  font-style: oblique;
+  cursor: help;
+}
+
+.sidebar {
+background: url(../tde3/imgens/Stories\ with\ PlayKids.gif ) no-repeat;
+border: 4px solid black;
+}
+
+
+.sidebar .design-selection { 
+background:darkgrey ;
+margin-right: 800px;
+}
+.sidebar .design-archives { 
+margin-top: 10px;
+background:darkgrey ;
+margin-right: 800px;
+}
+
+.sidebar .zen-resources { 
+background:darkgrey ;
+
+margin-top: 10px;
+margin-right: 800px;
+}
